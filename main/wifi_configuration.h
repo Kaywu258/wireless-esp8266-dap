@@ -43,7 +43,7 @@ static struct {
 //
 
 // DO NOT CHANGE
-#define USE_TCP_NETCONN 1
+#define USE_TCP_NETCONN     0
 
 #define PORT                3240
 #define CONFIG_EXAMPLE_IPV4 1
